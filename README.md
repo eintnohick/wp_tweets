@@ -1,5 +1,5 @@
-wp_tweets
-=========
+WP Tweets w/ API v1.1
+=====================
 
 Small, single file plugin using Twitter API v1.1 to fetch recent tweets by username.
 
